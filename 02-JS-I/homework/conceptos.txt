@@ -1,0 +1,5 @@
+* Variables: es un lugar en la memoria de nuestra computadora, que se usa para almacenar un dato y que el mismo pueda ser usado mas adelante.
+* Strings: son cadenas de caracteres que forman terxtos. A su vez son obketos, poseen propiedades que nos dan informacions de la cadena (caracteristicas), y tambien poseen metodos que generan acciones en la cadena. Se pueden concatenar e interpolar.
+* Funciones: es un bloque de código autocontenido que se inicializa una sola vez y se puede ejecutar en cualquier momento y las veces que sean necesarias. Opcionalmente una funcion puede aceptar parametros y devolver valores.
+* Declaraciones: es una afirmacion que nos dice que accion hay que cumplir de acuerdo con si cumple o no una condicion interna.
+* Valores booleanos: son valores o positivos o negativos, es decir que representan uno totalmente la oposicion del otro. Es comparable con los 1 y 0 del  lenguaje binario, es como decir si o no ante una pregunta.
