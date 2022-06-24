@@ -1,0 +1,4 @@
+* for: la palabra reservada "for" se utiliza para crear un bucle en el cual nosotros sabes hasta cuando debe seguis funcionando (por ejemplos si se quiere contar y mostrar los numeros del 0 al 10, se puede especificar su punto de inicio y final).
+* &&: operador de comparacion "and", significaria en español "y", y nos dice que AMBAS opciones de la comparacion deben ser verdaderas para pasar.
+* ||: operador de comparacion "or", significaria en español "o", y nos dice que AL MENOS UNA opcion deberia de ser verdadera para que el programa se ejecute.
+* !: operador de comparacion "not", significaria en español "no", y nos niega todo a lo cual siga a continuacion pegado a él (por ejemplo, !true == false).
