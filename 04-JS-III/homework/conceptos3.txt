@@ -1,0 +1,1 @@
+* Array: array o "matriz" son una coleccion de datos en una variable. Se utiliza para almacenar una gran cantidad de informacion. Dicha informacions puede o no, ser de distinto tipo de dato.
