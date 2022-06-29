@@ -1,0 +1,5 @@
+* Objetos: Los objetos son colecciones de propiedades, y una propiedad es la relacion entre un nombre y un valor adjudicado.
+*  Popiedades: se le conoce asi al contenido de un objeto. Son un conjunto de nombres/keys que contienen un valor.
+* Metodos: Se le conoces asi a las funciones guardadas dentro de un objeto.
+* Bucle for... in: Es un tipo de bucle integrado en JS, es una variante de un bucle for, mas especializado en hacer loops a los objetos.
+* Notación de puntos vs notación de corchetes: Son las dos formas de poder llamar a las propiedades del objeto. 
