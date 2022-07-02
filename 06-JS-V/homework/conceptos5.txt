@@ -1,0 +1,3 @@
+* Clase: es una "plantilla" o un "objeto" creado con la finalidad de servir como molde o base para la creacion de otros objetos de datos. Es un modelo a seguir para nuevos objetos.
+* Prototype: el prototype es la forma con la cual se conecta en forma de cadena padre-hijo objetos con otros, para ser utilizados como plantillas (class).
+* Constructors (de Clases): es un metodo especial para ésta situacion(la creacion de clases), para crear e inicializar objetos
