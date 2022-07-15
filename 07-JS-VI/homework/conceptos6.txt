@@ -1,0 +1,1 @@
+* callbacks: En pocas palabras es una función que puede ser usada como argumento para otra función. Se pueden concatena tantas como sean necesarias, se pueden usar para setear los tiempos de ejecucion.
